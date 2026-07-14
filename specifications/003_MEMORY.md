@@ -1,4 +1,4 @@
-Purpose
+Purpose:
 
 This specification defines the nature, organization, and evolution of Aster’s memory.
 
