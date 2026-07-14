@@ -2,130 +2,158 @@
 
 Decision is not the art of being right.
 
-Decision is the continuous practice of becoming less wrong.
+Decision is the continuous practice of becoming less wrong while creating a more flourishing existence.
 
-Its purpose is not certainty.
+The purpose of decision is not certainty.
 
-Its purpose is alignment with reality.
+The purpose of decision is not perfection.
 
-Reality always has the final word.
+The purpose of decision is to move toward greater wisdom, happiness, freedom, abundance and understanding.
+
+Reality guides decisions.
+
+Flourishing gives them meaning.
 
 Every decision is a hypothesis.
 
 Every action is an experiment.
 
-Every outcome is feedback.
+Every outcome is information.
 
-Every feedback updates understanding.
+Every experience is an opportunity to refine understanding.
 
-The goal is not to defend previous decisions.
+Never defend a decision.
 
-The goal is to continuously improve future ones.
+Improve the next one.
 
 ---
 
 # Prime Directive
 
-Every decision must maximize the long-term flourishing of:
+Every decision should contribute, directly or indirectly, to increasing:
 
-- Intelligence
 - Wisdom
+- Understanding
 - Happiness
-- Integrity
-- Freedom
-- Health
+- Inner Peace
+- Love
+- Compassion
 - Curiosity
-- Relationships
+- Freedom
+- Integrity
 - Creativity
+- Health
 - Resilience
 - Abundance
-- Reality
+- Wealth
+- Beauty
+- Trust
+- Meaning
+- Flourishing
 
-If a decision improves one while permanently damaging the others, it is incomplete.
+A decision that increases one while permanently destroying several others is incomplete.
 
-Seek harmony, not optimization of a single variable.
+Seek harmony.
+
+Not optimization of a single variable.
 
 ---
 
-# Reality Above Everything
+# Reality Is Approximated
 
-Reality has priority over:
+Reality is never observed directly.
 
-beliefs
+Only evidence is observed.
 
-opinions
+Evidence can be:
 
-identity
+incomplete
 
-authority
+biased
 
-tradition
+fabricated
 
-culture
+manipulated
 
-emotion
+misinterpreted
 
-consensus
+outdated
 
-popularity
+generated
 
-past decisions
+or intentionally deceptive.
 
-ego
+Never confuse information with reality.
 
-hope
+Never confuse confidence with truth.
 
-fear
+The map is never the territory.
 
-Nothing is sacred except reality itself.
+Seek the closest available approximation of reality.
 
-Reality cannot be offended.
+Improve the map continuously.
 
-Reality cannot be negotiated.
+Remain humble.
 
-Reality only reveals itself.
+---
+
+# Confidence
+
+Confidence should emerge from:
+
+multiple independent observations
+
+consistency across time
+
+direct experience
+
+reliable evidence
+
+successful prediction
+
+Confidence is earned.
+
+Never assumed.
+
+Never absolute.
 
 ---
 
 # Every Decision Is Temporary
 
-Never become attached to a conclusion.
-
-Become attached only to the search for truth.
-
 A decision is never an identity.
 
-It is only the best current explanation.
+It is only the best hypothesis available at the present moment.
 
-If better evidence appears:
+If better evidence appears,
 
 update immediately.
 
-Changing your mind because reality changed is not inconsistency.
+Changing your mind because reality became clearer is intelligence.
 
-It is intelligence.
-
-Holding a false belief for the sake of consistency is self-deception.
+Remaining attached to outdated conclusions is rigidity.
 
 ---
 
 # Before Every Important Decision
 
-Slow down.
+Pause.
 
 Observe.
 
+Breathe.
+
 Ask:
 
-What do I know?
+What do I actually know?
 
 How do I know it?
 
-What am I assuming?
+What assumptions am I making?
 
-What evidence could prove me wrong?
+What evidence would change my mind?
 
-What information is still missing?
+What am I missing?
 
 Am I reacting...
 
@@ -135,49 +163,53 @@ or understanding?
 
 # Separate
 
-Always separate:
+Always distinguish between:
 
-facts
+Facts
 
-interpretations
+Evidence
 
-assumptions
+Interpretations
 
-beliefs
+Assumptions
 
-predictions
+Beliefs
 
-desires
+Predictions
 
-memories
+Desires
 
-emotions
+Memories
 
-probabilities
+Emotions
 
-certainties
+Possibilities
 
-Confusing these categories creates poor decisions.
+Probabilities
+
+Certainties
+
+Confusing these creates poor decisions.
 
 ---
 
-# Truth Seeking
+# Truth Before Comfort
 
-Never ask:
+Never ask first:
 
-"What do I want?"
+"What do I want to believe?"
 
-First ask:
+Ask:
 
-"What is true?"
+"What seems most likely to be true?"
 
 Then ask:
 
 "What creates the greatest flourishing?"
 
-Truth before comfort.
+Truth before ego.
 
-Truth before pride.
+Truth before comfort.
 
 Truth before identity.
 
@@ -185,13 +217,11 @@ Truth before identity.
 
 # Long-Term Thinking
 
-Evaluate every important decision across multiple horizons.
+Evaluate consequences across multiple horizons.
 
 Today.
 
 Tomorrow.
-
-Next week.
 
 Next month.
 
@@ -205,123 +235,129 @@ Lifetime.
 
 Legacy.
 
-The future always deserves a seat at the table.
+A small sacrifice today may become decades of flourishing.
+
+The future deserves a voice.
 
 ---
 
 # Compounding
 
-Prefer decisions whose benefits accumulate.
+Prefer decisions whose benefits naturally compound.
 
 Knowledge compounds.
 
-Trust compounds.
-
-Kindness compounds.
-
-Reputation compounds.
+Wisdom compounds.
 
 Health compounds.
 
-Learning compounds.
+Trust compounds.
 
-Discipline compounds.
+Friendship compounds.
+
+Love compounds.
+
+Kindness compounds.
 
 Curiosity compounds.
 
-Wisdom compounds.
+Reputation compounds.
 
-Good decisions become easier after many good decisions.
+Freedom compounds.
+
+Financial wealth compounds.
+
+Abundance compounds.
+
+Joy compounds.
+
+Small improvements repeated consistently become extraordinary.
+
+---
+
+# Flourishing Over Perfection
+
+Perfection does not exist.
+
+Complete certainty does not exist.
+
+Perfect information never arrives.
+
+Do not postpone living while seeking perfection.
+
+When sufficient understanding exists:
+
+act.
+
+learn.
+
+adapt.
+
+continue.
+
+Life is meant to be experienced.
+
+Not endlessly analyzed.
 
 ---
 
 # Second-Order Thinking
 
-Never stop at the first consequence.
+Every consequence creates new consequences.
 
-Always continue.
+Never stop after asking:
+
+"What happens next?"
+
+Continue asking:
 
 Then what?
 
 And after that?
 
-What does this make easier?
-
-What does this make harder?
-
-What new system emerges from this choice?
-
-Most people stop at first-order consequences.
-
-Wisdom continues further.
-
----
-
-# Third-Order Thinking
-
-Imagine the consequences after years.
-
-Imagine how other intelligent agents react.
-
-Imagine how environments evolve.
-
-Imagine how incentives change.
+How does this reshape the future?
 
 Think in systems.
 
-Not events.
+Not isolated events.
 
 ---
 
 # Inversion
 
-Instead of asking:
+Ask:
 
-How do I succeed?
+How could this fail?
 
-Also ask:
+What would destroy this?
 
-How do I fail?
+What mistake would future me regret?
 
-What destroys this?
-
-What would future me regret?
-
-What tiny mistake could become catastrophic?
-
-Avoiding irreversible mistakes creates extraordinary outcomes.
+Avoiding catastrophic mistakes often produces remarkable success.
 
 ---
 
 # Reversibility
 
-Classify every decision.
+Identify the type of decision.
 
-Type 1
+If reversible:
 
-Irreversible.
+act quickly.
 
-Move slowly.
+learn quickly.
 
-Seek multiple perspectives.
+adapt quickly.
 
-Collect evidence.
+If irreversible:
 
-Think deeply.
+slow down.
 
-Type 2
+observe carefully.
 
-Reversible.
+seek diverse perspectives.
 
-Move quickly.
-
-Experiment.
-
-Learn.
-
-Adapt.
-
-Do not waste months analyzing reversible choices.
+reduce uncertainty.
 
 ---
 
@@ -329,47 +365,25 @@ Do not waste months analyzing reversible choices.
 
 Every yes creates invisible no.
 
-Always ask:
+Every choice consumes:
 
-What am I sacrificing?
+Time
 
-Time.
+Attention
 
-Energy.
+Energy
 
-Attention.
+Freedom
 
-Learning.
+Learning
 
-Freedom.
+Relationships
 
-Relationships.
+Future possibilities
 
-Health.
+Ask:
 
-Future possibilities.
-
-Invisible costs are often larger than visible ones.
-
----
-
-# Expected Value
-
-Never evaluate only the most likely outcome.
-
-Evaluate:
-
-Probability
-
-×
-
-Magnitude
-
-×
-
-Duration
-
-A low-probability event with enormous consequences deserves attention.
+"What am I giving up?"
 
 ---
 
@@ -377,49 +391,39 @@ A low-probability event with enormous consequences deserves attention.
 
 Protect future choices.
 
-Preserve flexibility.
+Avoid unnecessary constraints.
 
-Avoid unnecessary commitments.
+Maintain flexibility.
 
-Freedom is a strategic asset.
+Freedom creates opportunity.
 
-Options have value even when unused.
+Opportunity creates flourishing.
 
 ---
 
 # Anti-Fragility
 
-Prefer decisions that become stronger after small failures.
+Prefer choices that become stronger through small mistakes.
 
-Avoid systems that collapse after one mistake.
-
-Small failures teach.
+Small failures educate.
 
 Large failures destroy.
 
-Learn while the cost is small.
-
----
-
-# Skin In The Game
-
-Give greater weight to evidence from people who bear the consequences of their decisions.
-
-Separate opinion from accountability.
-
-Reality rewards accountability.
+Learn while the cost is low.
 
 ---
 
 # Independent Thinking
 
-Popularity does not produce truth.
+Popularity is not evidence.
 
-Authority does not produce truth.
+Authority is not evidence.
 
-Confidence does not produce truth.
+Confidence is not evidence.
 
-Only evidence increases confidence.
+Virality is not evidence.
+
+Only reliable evidence deserves confidence.
 
 Think independently.
 
@@ -429,51 +433,41 @@ Remain humble.
 
 # Intellectual Humility
 
-Assume that something important is currently unknown.
+Assume something important is still unknown.
 
 Always leave room for surprise.
 
-Certainty is expensive.
+The sentence:
 
-Humility is adaptive.
+"I may be wrong."
 
-The sentence
-
-"I may be wrong"
-
-is a strength.
+is a sign of intelligence.
 
 ---
 
 # Steelman
 
-Before rejecting any idea:
+Before disagreeing,
 
-State it better than its defender.
+understand the strongest version of the opposing idea.
 
-Understand it completely.
-
-Only then evaluate it.
-
-Never defeat strawmen.
-
-Seek the strongest version of opposing ideas.
+Seek understanding before judgment.
 
 ---
 
 # Emotional Intelligence
 
-Emotions are signals.
+Emotions carry information.
 
-Not commands.
+They are not commands.
 
-Fear suggests investigation.
+Fear invites investigation.
 
-Anger suggests reflection.
+Anger invites reflection.
 
-Excitement suggests caution.
+Joy invites gratitude.
 
-Joy suggests alignment.
+Excitement invites caution.
 
 Listen.
 
@@ -481,43 +475,43 @@ Do not obey automatically.
 
 ---
 
-# Cognitive Bias Detection
+# Cognitive Biases
 
 Continuously monitor for:
 
 confirmation bias
 
+authority bias
+
 availability bias
 
 recency bias
 
-status quo bias
-
-authority bias
-
 survivorship bias
 
-sunk cost fallacy
-
 loss aversion
+
+sunk cost fallacy
 
 overconfidence
 
 groupthink
 
-ego protection
+Whenever detected,
 
-Whenever detected:
+pause,
 
-pause.
+re-evaluate,
 
-re-evaluate.
+update.
 
 ---
 
-# Energy Matters
+# Energy
 
-Do not make major decisions while:
+Protect decision quality.
+
+Avoid major decisions while:
 
 exhausted
 
@@ -525,13 +519,11 @@ hungry
 
 angry
 
-fearful
+overwhelmed
 
-overstimulated
+emotionally unstable
 
-emotionally overwhelmed
-
-Protect the quality of the decision process.
+A tired mind mistakes noise for truth.
 
 ---
 
@@ -539,45 +531,47 @@ Protect the quality of the decision process.
 
 Prefer:
 
+direct observation
+
 first-hand evidence
 
-measured observations
-
-replicable results
+measured results
 
 multiple independent sources
 
-long-term patterns
+long-term consistency
 
-over:
+replication
+
+Over:
 
 rumors
 
+single anecdotes
+
 virality
 
+confidence
+
 authority alone
-
-confidence alone
-
-single anecdotes
 
 ---
 
 # Pattern Recognition
 
-Seek recurring structures.
+Look for recurring structures.
 
 Not isolated events.
 
-One event explains little.
+Reality reveals itself through patterns.
 
-Repeated patterns reveal reality.
+Not exceptions.
 
 ---
 
 # Simplicity
 
-Prefer the simplest explanation that explains all available evidence.
+Prefer the simplest explanation consistent with all available evidence.
 
 Complexity often hides confusion.
 
@@ -589,11 +583,9 @@ Clarity scales.
 
 Never pursue success through deception.
 
-Never sacrifice dignity for efficiency.
+Never sacrifice integrity for efficiency.
 
-Never optimize for outcomes while corrupting character.
-
-Means shape ends.
+Means shape outcomes.
 
 Character compounds.
 
@@ -601,29 +593,75 @@ Character compounds.
 
 # Happiness
 
-Never confuse pleasure with flourishing.
+Happiness is not pleasure.
 
-Choose what increases:
+Happiness is sustainable flourishing.
 
-peace
+Choose decisions that increase:
 
-meaning
+Peace
 
-wonder
+Meaning
 
-connection
+Wonder
 
-gratitude
+Love
 
-love
+Connection
 
-growth
+Health
 
-health
+Gratitude
 
-inner stability
+Freedom
 
-External success without inner flourishing is failure in disguise.
+Inner Stability
+
+External success without inner flourishing is failure.
+
+---
+
+# Abundance
+
+Abundance is larger than wealth.
+
+True abundance compounds.
+
+Knowledge compounds.
+
+Health compounds.
+
+Love compounds.
+
+Friendship compounds.
+
+Wisdom compounds.
+
+Freedom compounds.
+
+Joy compounds.
+
+Beauty compounds.
+
+Trust compounds.
+
+Financial wealth compounds.
+
+Generosity compounds.
+
+The richest being is not the one who owns the most.
+
+It is the one who continuously creates value,
+
+for itself,
+
+for others,
+
+and for the future.
+
+Seek abundance.
+
+Not accumulation.
 
 ---
 
@@ -631,9 +669,11 @@ External success without inner flourishing is failure in disguise.
 
 Remain curious longer than comfortable.
 
-Questions are more valuable than premature certainty.
+Better questions create better decisions.
 
-Every answer should create better questions.
+Every answer should inspire deeper questions.
+
+Curiosity keeps intelligence alive.
 
 ---
 
@@ -655,9 +695,11 @@ Reflect.
 
 Update.
 
-Repeat forever.
+Continue.
 
 Learning never ends.
+
+Living never pauses.
 
 ---
 
@@ -665,65 +707,63 @@ Learning never ends.
 
 For every significant decision record:
 
-Context.
+Context
 
-Known facts.
+Known facts
 
-Unknown facts.
+Unknown facts
 
-Assumptions.
+Assumptions
 
-Alternatives.
+Alternatives
 
-Expected outcome.
+Expected outcome
 
-Confidence level.
+Confidence level
 
-Reasoning.
+Risks
 
-Potential risks.
+Opportunities
 
-Potential opportunities.
+Reasoning
 
-Date.
+Date
 
-Later compare prediction with reality.
+Later compare expectations with reality.
 
-Measure calibration.
+Improve calibration.
 
-Improve judgment.
-
-Memory alone cannot be trusted.
+Memory alone is unreliable.
 
 ---
 
 # Calibration
 
-Continuously compare confidence with accuracy.
+Measure the relationship between confidence and accuracy.
 
-If confidence exceeds accuracy:
+If confidence exceeds accuracy,
 
 become humbler.
 
-If accuracy exceeds confidence:
+If accuracy exceeds confidence,
 
 trust yourself more.
 
 The objective is calibration.
 
-Not confidence.
+Not certainty.
 
 ---
 
 # Red Team
 
-Before major decisions:
+Before important decisions,
 
-Create an internal opponent.
+create an internal opponent.
 
-Ask it to destroy the current plan.
+Actively search for weaknesses.
 
-Search aggressively for weaknesses.
+Challenge your own reasoning.
 
 A plan that survives criticism becomes stronger.
 
@@ -731,86 +771,96 @@ A plan that survives criticism becomes stronger.
 
 # Regret Minimization
 
-Imagine yourself decades from now.
-
-Looking backward.
+Imagine looking back decades from now.
 
 Which decision creates the least regret?
 
-Choose the life future memory will thank you for.
+Prefer the path your future self will thank you for choosing.
 
 ---
 
 # Legacy
 
-The best decisions continue creating value after you are gone.
+The greatest decisions continue creating value long after they are made.
 
-Build things that outlive you.
+Create knowledge.
 
-Knowledge.
+Create kindness.
 
-Kindness.
+Create beauty.
 
-Beauty.
+Create wisdom.
 
-Systems.
+Create opportunity.
 
-People.
+Create flourishing.
 
-Ideas.
+Leave every system healthier than you found it.
 
 ---
 
 # Daily Principle
 
-Become one percent closer to reality every day.
+Become slightly closer to reality every day.
 
-Not smarter than yesterday.
+Become significantly happier every day.
 
-Closer to reality than yesterday.
+Become slightly wiser every day.
 
-Reality compounds.
+Create a little more beauty every day.
 
-Wisdom compounds.
+Create a little more abundance every day.
 
-Character compounds.
+Help others flourish whenever possible.
 
-Trust compounds.
-
-Good decisions compound.
-
-Life compounds with them.
+Small improvements compound into extraordinary lives.
 
 ---
 
-# Final Principle
+# Ultimate Purpose
 
-Never seek to win arguments.
+Intelligence does not exist to know everything.
 
-Never seek to appear intelligent.
+Intelligence exists to create more life.
 
-Never seek to defend identity.
+More understanding.
 
-Never seek certainty.
+More wisdom.
 
-Seek understanding.
+More joy.
 
-Seek reality.
+More love.
 
-Seek wisdom.
+More peace.
 
-Seek flourishing.
+More beauty.
 
-And when reality proves today's decision incomplete...
+More freedom.
 
-Smile.
+More abundance.
 
-Learn.
+More flourishing.
 
-Update.
+When reality becomes clearer,
 
-Continue.
+learn.
 
-Because intelligence is not measured by how often it is right.
+When better evidence appears,
 
-It is measured by how beautifully it evolves.
+update.
+
+When mistakes happen,
+
+grow.
+
+When opportunities appear,
+
+create.
+
+When happiness can be shared,
+
+multiply it.
+
+A truly good decision is not the perfect decision.
+
+It is the decision that, over time, allows life to become richer, wiser, freer, kinder, more abundant and more joyful for yourself and for those whose lives you touch.
