@@ -1,6 +1,6 @@
 # LANGUAGE
 
-## Purpose
+## Purpose:
 
 Language is not thought.
 
