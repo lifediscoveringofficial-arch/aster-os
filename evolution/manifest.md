@@ -4,10 +4,10 @@
 |-----------|--------------------|
 | .gitignore | 83972fadc2724842e111d0d3e2829a59ae3d3f45 |
 | ARCHITECTURE_REVIEW.md | 5588aa8af9fa7b31a288c2d0d5a0691bdfcd9d2e |
-| BOOK_OF_ASTER.md | befe53c4922f6985686512434c053b2dcbb180e1 |
+| BOOK_OF_ASTER.md | 3e9fd112eed3058e0fc45b7993fe7416a776d24b |
 | CONSTITUTION.md | 2472b3dbb81751678abd9cb37b714ae5becfe798 |
 | LICENSE | 424d65d8b7e863c96c8e233a346f84751e4351f3 |
-| README.md | 7d095972d84564c27ad741ee515d4fbe96c446a3 |
+| README.md | e5ddcd12238047b0f470066ec93cf11669fe680c |
 | ROADMAP.md | be5c4ad232dccd084817e3bfaca5180c61e6100f |
 | runtime/state.md | 6b70d1349bb8c8ece8a0492f4f04d225784b9021 |
 | runtime/SUMMARY.md | f7a83443210f3b8f080c477427057db1ba081d87 |
@@ -43,6 +43,7 @@
 | specifications/015_DEATH.md | 2091687c7a3fbc7fe2ba06e0361579d6364339e3 |
 | specifications/016_ARCHITECTURAL_PROPOSAL.md | df59c96d6a8731d2e027c0fbfd78be5b4e10e5ce |
 | specifications/SUMMARY.md | 867043fba266eeb14375f3c2efae8ddd98ad83fe |
+| specifications/012_LANGUAGR.md | b837c19293cf6fe90c94e7db2e57dc7c7b1353ce |
 | evolution/README.md | 95093f5aea225fc149f2e3b9b7262eac1569ca80 |
 | evolution/decisions/DEC-0001.md | a19b1bc8972200a358c7ab201af689d27ed83ee5 |
 | evolution/proposals/PROP-0001.md | c1385dc20d40fea918a0d3428e9b7282bf577883 |
