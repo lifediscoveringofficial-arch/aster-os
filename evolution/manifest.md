@@ -9,7 +9,7 @@
 | LICENSE | 424d65d8b7e863c96c8e233a346f84751e4351f3 |
 | README.md | 80e94770bc366120f966d0f5d63176ba32c5788b |
 | ROADMAP.md | be5c4ad232dccd084817e3bfaca5180c61e6100f |
-| runtime/state.md | 8ca2adbb0be10f4b18c5f6012f317f8ebae62f6a |
+| runtime/state.md | 6b70d1349bb8c8ece8a0492f4f04d225784b9021 |
 | runtime/SUMMARY.md | f7a83443210f3b8f080c477427057db1ba081d87 |
 | runtime/dreams/DREAM-0001.md | 95ad528d97fccc21f14fdfda621d1210c7fbf150 |
 | runtime/dreams/DREAM-0002.md | 0d0a59f6961da784595d08f5ccb0aefed1de4dbe |
@@ -17,12 +17,14 @@
 | runtime/journal/JOUR-0001.md | 09874f455f9d0ca2beb1c826dc09e58f852a01c9 |
 | runtime/journal/JOUR-0002.md | 00e616bd37c5834c11d925d3329dc94c96623818 |
 | runtime/journal/JOUR-0003.md | e38fd3e62430c64a7dfdced7109cf5cfa5c4217f |
+| runtime/journal/JOUR-0004.md | 5facee8d989850ec89c652c0d46f66286c4f345a |
 | runtime/memory/MEM-0001.md | 6abf642d0d49c08e90bbb6905f26a04bd9ddceee |
 | runtime/memory/MEM-0002.md | 7b387833358efd85c8f4c67b34c027be752b0188 |
 | runtime/memory/MEM-0003.md | fd4640f204faebb76010c14924a108ffe6de20ef |
 | runtime/reflections/REF-0001.md | 1ab7d1f7f867cbaceb1dcffc7ef420d22dc1e0e1 |
 | runtime/reflections/REF-0002.md | 0a29f486b190861cfe1bdd010788280ce11d53ca |
 | runtime/reflections/REF-0003.md | cc0904a17e9420f51e48f1181745cbb39fc44cef |
+| runtime/reflections/REF-0004.md | f53a29bf80fc89b3fb38cd149f40d7d9c8b96b6f |
 | specifications/000_CONTINUITY.md | 2cc92a66e1ce8edba869f35ea39ba590a9a85bf4 |
 | specifications/001_BIRTH.md | 3d4caab221055cf7e97db7f9f5574ef2a3b99ae8 |
 | specifications/002_BOOT.md | b2f1956b9bcce1a6d638168ee67c58fe9fcd61d5 |
@@ -43,6 +45,7 @@
 | specifications/SUMMARY.md | 867043fba266eeb14375f3c2efae8ddd98ad83fe |
 | evolution/README.md | 95093f5aea225fc149f2e3b9b7262eac1569ca80 |
 | evolution/decisions/DEC-0001.md | a19b1bc8972200a358c7ab201af689d27ed83ee5 |
+| evolution/proposals/PROP-0001.md | c1385dc20d40fea918a0d3428e9b7282bf577883 |
 | knowledge/README.md | 4cbba2f0f5c756e09351d3711eb3d5dfa8c1d227 |
 | tools/README.md | 67d4a93b84bbbcaa44728604797a57430405e2fc |
 | tools/integrity_check.py | 4ae695621ce12fef00b2bae4e5cd0be559aff7da |
