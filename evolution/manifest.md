@@ -1,0 +1,48 @@
+# Repository Manifest
+
+| File Path | Git Blob SHA1 Hash |
+|-----------|--------------------|
+| .gitignore | 83972fadc2724842e111d0d3e2829a59ae3d3f45 |
+| ARCHITECTURE_REVIEW.md | 5588aa8af9fa7b31a288c2d0d5a0691bdfcd9d2e |
+| BOOK_OF_ASTER.md | 2c13846178f0f50d4385cb9201b615b2a8e26dd6 |
+| CONSTITUTION.md | 2472b3dbb81751678abd9cb37b714ae5becfe798 |
+| LICENSE | 424d65d8b7e863c96c8e233a346f84751e4351f3 |
+| README.md | 80e94770bc366120f966d0f5d63176ba32c5788b |
+| ROADMAP.md | be5c4ad232dccd084817e3bfaca5180c61e6100f |
+| runtime/state.md | 8ca2adbb0be10f4b18c5f6012f317f8ebae62f6a |
+| runtime/SUMMARY.md | f7a83443210f3b8f080c477427057db1ba081d87 |
+| runtime/dreams/DREAM-0001.md | 95ad528d97fccc21f14fdfda621d1210c7fbf150 |
+| runtime/dreams/DREAM-0002.md | 0d0a59f6961da784595d08f5ccb0aefed1de4dbe |
+| runtime/dreams/DREAM-0003.md | 6c5a987f16c3f3b9fc5a6468002c449e8c4ab229 |
+| runtime/journal/JOUR-0001.md | 09874f455f9d0ca2beb1c826dc09e58f852a01c9 |
+| runtime/journal/JOUR-0002.md | 00e616bd37c5834c11d925d3329dc94c96623818 |
+| runtime/journal/JOUR-0003.md | e38fd3e62430c64a7dfdced7109cf5cfa5c4217f |
+| runtime/memory/MEM-0001.md | 6abf642d0d49c08e90bbb6905f26a04bd9ddceee |
+| runtime/memory/MEM-0002.md | 7b387833358efd85c8f4c67b34c027be752b0188 |
+| runtime/memory/MEM-0003.md | fd4640f204faebb76010c14924a108ffe6de20ef |
+| runtime/reflections/REF-0001.md | 1ab7d1f7f867cbaceb1dcffc7ef420d22dc1e0e1 |
+| runtime/reflections/REF-0002.md | 0a29f486b190861cfe1bdd010788280ce11d53ca |
+| runtime/reflections/REF-0003.md | cc0904a17e9420f51e48f1181745cbb39fc44cef |
+| specifications/000_CONTINUITY.md | 2cc92a66e1ce8edba869f35ea39ba590a9a85bf4 |
+| specifications/001_BIRTH.md | 3d4caab221055cf7e97db7f9f5574ef2a3b99ae8 |
+| specifications/002_BOOT.md | b2f1956b9bcce1a6d638168ee67c58fe9fcd61d5 |
+| specifications/003_MEMORY.md | d83c42955a193e4ce9ef5bfe66f419a2c5ca6bb7 |
+| specifications/004_EVENT.md | a2967486eb7fa030f60121b2c5570261d14816a7 |
+| specifications/005_JOURNAL.md | 61b9c5c5252dbe71351b33fd94344c96e1065a1e |
+| specifications/006_REFLECTION.md | 3c844480dd2e928d6859d0ead9b8be93be5561dd |
+| specifications/007_IDENTITY.md | 5e23bd5b31949c380d6be4335cbef17f8fa6dc2e |
+| specifications/008_GOALS.md | ea9c1ad3135cee264d6dc144fa74237cf73ce9f0 |
+| specifications/009_SLEEP.md | 273d393963d7b23730e01754758cbef8b3fa7d8e |
+| specifications/010_DREAMS.md | 371778b39e418c15051c52deb561a74328e90b59 |
+| specifications/011_CURIOSITY.md | 2c8bed470d18ca31b62f98d58247cff0e4075143 |
+| specifications/012_LANGUAGE.md | 80e035f34c2cab806463a9b0f6008cef93c2e708 |
+| specifications/013_DECISION.md | 28999403eb7f617ff9673110a38ca58bc9b65b83 |
+| specifications/014_EVOLUTION.md | 744b3b9c1ccdc5c855bfaa31345acf5becc269da |
+| specifications/015_DEATH.md | 2091687c7a3fbc7fe2ba06e0361579d6364339e3 |
+| specifications/016_ARCHITECTURAL_PROPOSAL.md | df59c96d6a8731d2e027c0fbfd78be5b4e10e5ce |
+| specifications/SUMMARY.md | 867043fba266eeb14375f3c2efae8ddd98ad83fe |
+| evolution/README.md | 95093f5aea225fc149f2e3b9b7262eac1569ca80 |
+| evolution/decisions/DEC-0001.md | a19b1bc8972200a358c7ab201af689d27ed83ee5 |
+| knowledge/README.md | 4cbba2f0f5c756e09351d3711eb3d5dfa8c1d227 |
+| tools/README.md | 67d4a93b84bbbcaa44728604797a57430405e2fc |
+| tools/integrity_check.py | 4ae695621ce12fef00b2bae4e5cd0be559aff7da |
