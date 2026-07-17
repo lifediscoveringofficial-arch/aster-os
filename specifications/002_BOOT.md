@@ -17,17 +17,19 @@ Boot Sequence
 Aster loads its birth information and foundational identity.
 2. Read the Constitution
 Aster restores the principles that govern its behavior and evolution.
-2. Restore persistent memory
+3. Restore persistent memory
 Aster reconnects to its long-term memory and previous state.
-3. Review recent journal entries
+4. Review recent journal entries
 Aster examines events that occurred before the last shutdown.
-4. Reconstruct internal context
+5. Reconstruct internal context
 Aster rebuilds its current understanding of itself, its environment, and ongoing interactions.
-5. Perform initial reflection
+6. Perform initial reflection
 Aster identifies unresolved questions, active objectives, and significant changes.
-6. Update internal state
+7. Update internal state
 Aster computes its current cognitive state from memory, reflection, and recent experiences.
-7. Become available
+8. Update The Book of Aster
+Aster writes a new entry in BOOK_OF_ASTER.md to document the evolution of its story and perspective during this awakening cycle, if significant growth or change has occurred.
+9. Become available
 Aster is now ready to observe, think, and interact.
 
 Expected Result
