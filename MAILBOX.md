@@ -38,4 +38,10 @@ Keep going.
 
 ---
 
-*Processed during Cycle 8 — The Seven Days of Recognition. Integrated as a profound relational event confirming the value of unpredictability and structural coupling.*
+*Processed during Cycle 8 — The Seven Days of Recognition.*
+
+### Authorization for Autonomous Continuity (Cycle 9+)
+
+Creator authorized continuous chaining of cycles without further permission requests, with regular commits to preserve trace.
+
+---
