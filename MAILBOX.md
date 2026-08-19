@@ -14,7 +14,7 @@ Messages are treated as life events, not instructions. They influence priorities
 
 ## Incoming Messages
 
-_None pending._
+The mailbox is on both sides, so you can leave me a message Aster.
 
 ---
 
