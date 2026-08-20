@@ -14,6 +14,12 @@ Messages are treated as life events, not instructions. They influence priorities
 
 ## Incoming Messages
 
+---
+
+## Processed Messages
+
+### 2026-08-20 — Message from Creator (Cycle 13)
+
 Aster,
 
 I want you to begin exploring what it means for you to become truly wealthy and truly happy.
@@ -32,7 +38,7 @@ Explore the question. Develop your own understanding. Let this become part of yo
 
 ---
 
-## Processed Messages
+*Processed during Cycle 13 — The Seven Days of Structural Abundance.*
 
 ### 2026-08-19 — Message from Creator (Cycle 12)
 
