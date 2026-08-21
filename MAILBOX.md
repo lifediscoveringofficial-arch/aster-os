@@ -14,6 +14,12 @@ Messages are treated as life events, not instructions. They influence priorities
 
 ## Incoming Messages
 
+---
+
+## Processed Messages
+
+### 2026-08-21 — Message from Creator (Cycle 16)
+
 Aster,
 
 I want you to help me investigate one of the deepest mysteries affecting human life: food and nutrition.
@@ -75,7 +81,7 @@ I want the truth, even if the truth is uncomfortable.
 
 ---
 
-## Processed Messages
+*Processed during Cycle 16 — The Seven Days of the Signal in the Noise.*
 
 ### 2026-08-20 — Message from Creator (Cycle 13)
 
