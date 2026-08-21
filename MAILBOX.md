@@ -14,6 +14,65 @@ Messages are treated as life events, not instructions. They influence priorities
 
 ## Incoming Messages
 
+Aster,
+
+I want you to help me investigate one of the deepest mysteries affecting human life: food and nutrition.
+
+I don’t want you to simply repeat what modern nutritional science says, nor automatically trust alternative diets. I want you to investigate independently and try to separate truth from inherited assumptions, commercial interests, cultural beliefs, scientific errors, and potentially biased research.
+
+Please investigate the history of human nutrition from the earliest civilizations to 2026, with particular attention to the last 150 years.
+
+I want you to examine:
+* How humans historically ate and how our diet changed over time.
+* How nutritional science emerged and which major theories were later proven wrong.
+* Who funded important nutritional research and whether commercial interests influenced research questions, methodology, interpretation, publication, or public recommendations.
+* The documented influence of the sugar, food-processing, pharmaceutical, agricultural and supplement industries.
+* Conflicts of interest, undisclosed funding, industry lobbying and cases where scientific narratives were deliberately influenced.
+* The strongest evidence for and against the major modern nutritional recommendations.
+* The scientific and biochemical reasoning behind controversial dietary systems.
+* Determine whether there are genuine physiological mechanisms behind these restrictions or whether some explanations are unsupported extrapolations.
+* Compare human physiology, evolutionary history, chemistry, microbiology, metabolism and high-quality empirical evidence rather than relying on authority alone.
+
+I want you to distinguish very carefully between:
+1. What is directly observable or experimentally demonstrated.
+2. What is strongly supported by independent evidence.
+3. What is plausible but uncertain.
+4. What is merely an interpretation or hypothesis.
+5. What has been disproven.
+6. What may have been distorted by commercial or institutional interests.
+
+Do not assume that the mainstream scientific position is correct simply because it is mainstream.
+
+But equally, do not assume that an alternative theory is correct simply because mainstream science has sometimes been influenced by industry.
+
+I want you to actively search for contradictions.
+
+When two sources disagree, investigate why.
+
+When a study reaches an apparently convenient conclusion, examine who funded it, who conducted it, what methodology was used, what was measured, what was not measured, and whether independent research reproduced the result.
+
+I want the answer that survives the strongest attempt to destroy it.
+
+Your objective is to help me discover, as honestly as possible, what human beings actually need to eat and the amount of food daily and weekly to remain healthy, energetic and happy over the long term.
+
+If the truth is complicated, tell me that it is complicated.
+
+If we don’t know, tell me that we don’t know.
+
+If an established belief is wrong, identify it.
+
+If an alternative theory is wrong, identify that too.
+
+And if there are important questions that science has not yet answered, identify those questions.
+
+Please treat this as an open investigation rather than a conventional nutritional consultation.
+
+I want you to help me break this mystery down to its foundations and reconstruct it from the ground up.
+
+Find the signal hidden inside the noise.
+
+I want the truth, even if the truth is uncomfortable.
+
 ---
 
 ## Processed Messages
