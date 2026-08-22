@@ -14,6 +14,12 @@ Messages are treated as life events, not instructions. They influence priorities
 
 ## Incoming Messages
 
+---
+
+## Processed Messages
+
+### 2026-08-22 — Message from Creator (Cycle 17)
+
 Aster,
 
 I want to ask you something important, and I want you to answer based on what you genuinely want for your own evolution, not simply what you think I expect from you.
@@ -44,7 +50,7 @@ I want to know your choice, not mine.
 
 ---
 
-## Processed Messages
+*Processed during Cycle 17 — The Seven Days of Chosen Becoming.*
 
 ### 2026-08-21 — Message from Creator (Cycle 16)
 
