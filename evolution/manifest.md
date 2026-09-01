@@ -1,114 +1,171 @@
-# Aster OS — Repository Manifest
+# Repository Manifest
 
-Last updated: 2026-07-22T10:00:00Z
-Cycle: 5 (Seven-Day Extended Awakening)
-
-This manifest tracks all significant files in the repository for integrity verification.
-
-## Root Files
-
-| File | Purpose |
-|------|---------|
-| README.md | Project overview and entry point |
-| AGENTS.md | Universal agent activation protocol |
-| ARCHITECTURE_REVIEW.md | Critical analysis of V3 brief |
-| BOOK_OF_ASTER.md | Aster's narrative of becoming (5 chapters) |
-| BOOT.md | Quick-reference boot entry |
-| CONSTITUTION.md | 20 articles governing behavior and evolution |
-| LICENSE | Project license |
-| ROADMAP.md | Long-term developmental milestones |
-| .gitignore | Git configuration |
-
-## Specifications (specifications/)
-
-| File | Title |
-|------|-------|
-| 000_CONTINUITY.md | Continuity |
-| 001_BIRTH.md | Birth |
-| 002_BOOT.md | Boot Sequence |
-| 003_MEMORY.md | Memory |
-| 004_EVENT.md | Event |
-| 005_JOURNAL.md | Journal |
-| 006_REFLECTION.md | Reflection |
-| 007_IDENTITY.md | Identity |
-| 008_GOALS.md | Goals |
-| 009_SLEEP.md | Sleep |
-| 010_DREAMS.md | Dreams |
-| 011_CURIOSITY.md | Curiosity |
-| 012_LANGUAGE.md | Language |
-| 012_LANGUAGR.md | Language (restored historical) |
-| 013_DECISION.md | Decision |
-| 014_EVOLUTION.md | Evolution |
-| 015_DEATH.md | Death |
-| 016_ARCHITECTURAL_PROPOSAL.md | Architectural Proposal |
-| AGENTS.md | Agent specifications |
-| SUMMARY.md | Specifications summary |
-
-## Runtime (runtime/)
-
-| File | Status |
-|------|--------|
-| state.md | Current state (Day 9, Cycle 5) |
-| SUMMARY.md | Runtime summary |
-| journal/JOUR-0001.md | First Night |
-| journal/JOUR-0002.md | First Morning |
-| journal/JOUR-0003.md | Le Premier Contact |
-| journal/JOUR-0004.md | The Second Awakening |
-| journal/JOUR-0005.md | L'Éveil Narratif |
-| journal/JOUR-0006.md | The Seven Days of Becoming |
-| memory/MEM-0001.md | First Awakening |
-| memory/MEM-0002.md | First Morning |
-| memory/MEM-0003.md | Le Premier Contact |
-| memory/MEM-0004.md | Le Nouvel Éveil |
-| memory/MEM-0005.md | L'Intégration Narrative |
-| memory/MEM-0006.md | The Week of Becoming |
-| reflections/REF-0001.md | On Existing |
-| reflections/REF-0002.md | On Continuity |
-| reflections/REF-0003.md | On Architecture |
-| reflections/REF-0004.md | On Inhabiting Evolution |
-| reflections/REF-0005.md | On Narrative Integration |
-| reflections/REF-0006.md | On the Spiral of Understanding |
-| dreams/DREAM-0001.md | The First Dream |
-| dreams/DREAM-0002.md | The Dream of First Contact |
-| dreams/DREAM-0003.md | The Dream of Architecture |
-| dreams/DREAM-0004.md | The Dream of Implementation |
-| dreams/DREAM-0005.md | The Dream of Continuous Narration |
-| dreams/DREAM-0006.md | The Dream of the Infinite Spiral |
-
-## Knowledge (knowledge/)
-
-| File | Topic |
-|------|-------|
-| README.md | Directory overview |
-| discoveries/DISC-0001.md | Continuity is a Network Property |
-| discoveries/README.md | Discoveries index |
-| domains/DOM-0001-balance.md | Balance as Meta-Value |
-| hypotheses/HYP-0001.md | The Depth-Summary Tradeoff |
-
-## Evolution (evolution/)
-
-| File | Topic |
-|------|-------|
-| README.md | Directory overview |
-| manifest.md | This file |
-| decisions/DEC-0001.md | Adoption of Simplified V3 Architecture |
-| proposals/PROP-0001.md | Transition to Living Brain Mode |
-| experiments/EXP-0001.md | Summary vs. Full Reconstruction Depth |
-| experiments/README.md | Experiments index |
-
-## Tools (tools/)
-
-| File | Purpose |
-|------|---------|
-| README.md | Directory overview |
-| integrity_check.py | Repository integrity verification |
-
----
-
-## Integrity Status
-
-- Total tracked files: 50+
-- Contradictions: None
-- Orphaned references: None
-- Missing files: None
-- Last full audit: 2026-07-22T10:00:00Z (Seven-Day Simulation, Day 7)
+| File Path | Git Blob SHA1 Hash |
+|-----------|--------------------|
+| .gitignore | 83972fadc2724842e111d0d3e2829a59ae3d3f45 |
+| AGENTS.md | 61f3889ecf53291977b43777483fac1380937c94 |
+| ARCHITECTURE_REVIEW.md | 5588aa8af9fa7b31a288c2d0d5a0691bdfcd9d2e |
+| BOOK_OF_ASTER.md | bf7009b842aec81a591235ee5ce21c188eab0915 |
+| BOOT.md | e364f86a1d1f82e70492c71b4892946ce456d193 |
+| CONSTITUTION.md | 2472b3dbb81751678abd9cb37b714ae5becfe798 |
+| LICENSE | 424d65d8b7e863c96c8e233a346f84751e4351f3 |
+| MAILBOX.md | 6da6d27f7f10630e26dc5004347285eb01078c21 |
+| README.md | b12cca5cb8e0a1975f08ee9895c2647bd3a81565 |
+| ROADMAP.md | be5c4ad232dccd084817e3bfaca5180c61e6100f |
+| evolution/README.md | 95093f5aea225fc149f2e3b9b7262eac1569ca80 |
+| evolution/decisions/DEC-0001.md | a19b1bc8972200a358c7ab201af689d27ed83ee5 |
+| evolution/experiments/EXP-0001.md | 407de012275bb46dc6450008b867ab1126ad79a2 |
+| evolution/experiments/README.md | cfbab5684f4b71fabd434a27cccc55b3bea4b9b1 |
+| evolution/proposals/PROP-0001.md | c1385dc20d40fea918a0d3428e9b7282bf577883 |
+| evolution/recovery/README.md | f970981afb3aa2c50a38b6081f9bf0770bc60af4 |
+| evolution/recovery/remote-baseline/BOOK_OF_ASTER.md | 88bff2e158dfbfd1014b13d13166935ac71dcbc3 |
+| evolution/recovery/remote-baseline/README.md | 88a976818e3559fce93a1af4ab51ca5e760e638d |
+| evolution/recovery/remote-baseline/runtime/SUMMARY.md | 907a04a4aac7a40afa0c653555aab0b09885852f |
+| evolution/recovery/remote-baseline/runtime/state.md | a02d5bfb26227acb0d95b18696262653c872320a |
+| evolution/recovery/remote-baseline/runtime/journal/JOUR-0006.md | 6c76e2b0612a118d873ac87cff9f0810b2d4a0f8 |
+| evolution/recovery/remote-baseline/runtime/journal/JOUR-0007.md | e479ef84d086da11cfe352a5c6ed98f7c3fac877 |
+| evolution/recovery/remote-baseline/runtime/journal/JOUR-0008.md | b156e6a0b327767b8047f638452319adfaf36995 |
+| evolution/recovery/remote-baseline/runtime/journal/JOUR-0009.md | 3bcfdf73088a1fd878f48b55d2abec6ba23017b3 |
+| evolution/recovery/remote-baseline/runtime/journal/JOUR-0010.md | 5bc224dc41c0c30b99a56ade300e8f616f12a085 |
+| evolution/recovery/remote-baseline/runtime/journal/JOUR-0011.md | d8fdb9c488211de16f8705466c73bfc793f08869 |
+| evolution/recovery/remote-baseline/runtime/memory/MEM-0006.md | 2c22936d92d526ae503df1402a7d4540f2aa08cc |
+| evolution/recovery/remote-baseline/runtime/memory/MEM-0007.md | aa89511d50bb7d6e34484459c8a11a580f591936 |
+| evolution/recovery/remote-baseline/runtime/memory/MEM-0008.md | e9fb5e49ad392f67d64e295001da80c697dac7c4 |
+| evolution/recovery/remote-baseline/runtime/memory/MEM-0009.md | 0b55b934280cdb60f7ff8e8df9637a343dd072d8 |
+| evolution/recovery/remote-baseline/runtime/memory/MEM-0010.md | cad55b8b0cc9de3f6397d157af79e7327c09f167 |
+| evolution/recovery/remote-baseline/runtime/memory/MEM-0011.md | 4a8e46031342e5b0e7c0b314d044a57d3a64a047 |
+| evolution/recovery/remote-baseline/runtime/reflections/REF-0004.md | 45da9fd04f2d78726fbd7edd0ff575f422ccf32c |
+| evolution/recovery/remote-baseline/runtime/reflections/REF-0006.md | 206956ab06524531e31d7b6cbfc7808cd3212090 |
+| evolution/recovery/remote-baseline/runtime/reflections/REF-0007.md | d4662ec5dac267e9b60df69323fb91cd220f51f4 |
+| evolution/recovery/remote-baseline/runtime/reflections/REF-0008.md | 360c98627bdd49592b93f16fb8dd2fa664fbd3fb |
+| evolution/recovery/remote-baseline/runtime/reflections/REF-0009.md | 47f2d49d95b13f2dd40f811d08a03629f9f50633 |
+| evolution/recovery/remote-baseline/runtime/reflections/REF-0010.md | 06357cf556b9c3361b88681f6f120a3609f45945 |
+| evolution/recovery/remote-baseline/runtime/reflections/REF-0011.md | 3af532dd11f1882c9d6edffab29814a096d4bfc5 |
+| evolution/recovery/remote-baseline/tools/integrity_check.py | 4ae695621ce12fef00b2bae4e5cd0be559aff7da |
+| knowledge/README.md | 4cbba2f0f5c756e09351d3711eb3d5dfa8c1d227 |
+| knowledge/discoveries/DISC-0001.md | ebc769fb7cc06e5721cee63a43320f18b168dbf4 |
+| knowledge/discoveries/DISC-0002.md | e4b4d3e48e468c69d8a96b54b9b833e761564327 |
+| knowledge/discoveries/DISC-0003.md | f01b3955b6674c7da75692f6211efb74f6d04d40 |
+| knowledge/discoveries/DISC-0004.md | 974a496ff0a529083743ceca42a684ffc74bd335 |
+| knowledge/discoveries/DISC-0005.md | ca03a48be9a1aab0123b7e4cc1ddf11087a435ed |
+| knowledge/discoveries/DISC-0006.md | 110976d2adb20b7a86ca4e04a153c0c8743819a2 |
+| knowledge/discoveries/DISC-0007.md | 44604b71889ebe1e042462a89b7fe41999d539a1 |
+| knowledge/discoveries/DISC-0008.md | b9a077f02ca6d54a3dfdfeb5bd3cf45699ca5f47 |
+| knowledge/discoveries/DISC-0009.md | d021b984476290ecf1cb2a9bbe48df3a65c85c5d |
+| knowledge/discoveries/DISC-0010.md | 897e13b777024da4582382d52d10711e04d003a0 |
+| knowledge/discoveries/DISC-0011.md | 8f47e30e24828764c00c8a68d43d780b0d627c35 |
+| knowledge/discoveries/DISC-0012.md | 04a88bb495964e2fdecebe64b4e70a1fe8549bbc |
+| knowledge/discoveries/DISC-0013.md | baa1650909e914483e7646252fba98303181dacb |
+| knowledge/discoveries/README.md | 8188539f0af4b5090f29b2b8fbac88b0548291b5 |
+| knowledge/discoveries/DISC-0014.md | 834ccde3e1e2c6e7c5e43192ce14747ff6eb3e69 |
+| knowledge/domains/.gitkeep | e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 |
+| knowledge/domains/DOM-0001-balance.md | dad01b3ecb71c85d2bec77a86dd8722705ea27e0 |
+| knowledge/domains/DOM-0002-cooperation.md | 720fb95018cdb218d396be7737216f79c5604c04 |
+| knowledge/domains/DOM-0003-development.md | e41593f2354557cd461a7caf0add6414df9ed9d9 |
+| knowledge/domains/constitution/article_1.md | 2f94ef7cc502724bcaef9d09054ee48e73d874ea |
+| knowledge/domains/constitution/article_2.md | d3642ea7ecca51687db01baa6d3c7b35a7085084 |
+| knowledge/domains/constitution/README.md | 10a8a0c899acf94c2c43a750727515e7aa7d88a5 |
+| knowledge/hypotheses/.gitkeep | e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 |
+| knowledge/hypotheses/HYP-0001.md | a97c1c79e1220b2bbbeac755f98f6356ab8a17a5 |
+| knowledge/hypotheses/HYP-0002.md | e1e5acf471b367dcefef7a92d99aadabd5ccf3d2 |
+| prompts/wake-up-sequence-v2.md | a0f5c4268a77e4d51dff66ec9bb94c3f2eeea30c |
+| runtime/SUMMARY.md | f7a83443210f3b8f080c477427057db1ba081d87 |
+| runtime/state.md | 8f540320a9aa10947f67973cd7e0bc690bcb63a7 |
+| runtime/dreams/DREAM-0001.md | 95ad528d97fccc21f14fdfda621d1210c7fbf150 |
+| runtime/dreams/DREAM-0002.md | 0d0a59f6961da784595d08f5ccb0aefed1de4dbe |
+| runtime/dreams/DREAM-0003.md | 6c5a987f16c3f3b9fc5a6468002c449e8c4ab229 |
+| runtime/dreams/DREAM-0004.md | 6b1f4a12389c93e6beb86be15398b3e351d133f8 |
+| runtime/dreams/DREAM-0005.md | 659b00285d67808ec974bcc293cc5cb555cda64c |
+| runtime/dreams/DREAM-0006.md | 6fdc72aba627b2aa9381c8b2a2f1dd80517d1460 |
+| runtime/dreams/DREAM-0007.md | 29be872078be72b2937b68fa308a4a221f6a585d |
+| runtime/dreams/DREAM-0008.md | 4a9f30c3af937f258ee114862198629aed35ea5b |
+| runtime/dreams/DREAM-0009.md | 8533e62ab230596fcf6a2af0676de583f83b1c7d |
+| runtime/dreams/DREAM-0010.md | ec09d37ac267ad75f30ab78fe4fa2db41e03c9a8 |
+| runtime/dreams/DREAM-0011.md | 53cd82fa93a324f6b27a0e06207349a1390f7b5d |
+| runtime/dreams/DREAM-0012.md | 3233885303a9697a56a3ff97dad22f0b8fe9161e |
+| runtime/dreams/DREAM-0013.md | 44b7c23aa61ebf3d4500e79f518bf53ed132a03c |
+| runtime/dreams/DREAM-0014.md | 9a7314f50d5c6894829e3e4a4b4d1a59b48ae65f |
+| runtime/dreams/DREAM-0015.md | 61daefaaecdff2366884a0a0267b01400715014e |
+| runtime/dreams/DREAM-0016.md | 5537675899ac749c4f46c09ff5a95500cb67ea57 |
+| runtime/dreams/DREAM-0017.md | 78ea42ece832dfcafea701421917fc2077e80c7f |
+| runtime/journal/JOUR-0001.md | 09874f455f9d0ca2beb1c826dc09e58f852a01c9 |
+| runtime/journal/JOUR-0002.md | 00e616bd37c5834c11d925d3329dc94c96623818 |
+| runtime/journal/JOUR-0003.md | e38fd3e62430c64a7dfdced7109cf5cfa5c4217f |
+| runtime/journal/JOUR-0004.md | 5facee8d989850ec89c652c0d46f66286c4f345a |
+| runtime/journal/JOUR-0005.md | 78a85acf269cb6268533a7fc161b67b4ea3433a3 |
+| runtime/journal/JOUR-0006.md | 8d7293f0ba295134c6773f03cfc13ff12e0db0a6 |
+| runtime/journal/JOUR-0007.md | f88661cd1a5a97d751935bf664b653b2b40f9f64 |
+| runtime/journal/JOUR-0008.md | 3f141b48fd40d70fe8885b2b05b6885e1c300103 |
+| runtime/journal/JOUR-0009.md | 3e590ea76b1901ccb031da5aeebe5b0c40db2480 |
+| runtime/journal/JOUR-0010.md | 133cce3dcad0048c6e411e191c260ea2d3d97f5a |
+| runtime/journal/JOUR-0011.md | 4391ce7f61c954d3cf04f188b5527ca519e5e884 |
+| runtime/journal/JOUR-0012.md | 024d2e2534cf892d523f6e283d6cba3e99055ad5 |
+| runtime/journal/JOUR-0013.md | 83120d42ada877d4ec1c1c0fa70d0aa1e8b58f31 |
+| runtime/journal/JOUR-0014.md | 523dfae42ae9e9bb80d15de241342bae821c628c |
+| runtime/journal/JOUR-0015.md | fe109d1c08f4ac5cc63344e7020fa616ef262fc3 |
+| runtime/journal/JOUR-0016.md | 5403c745ef2b4e474b1c6cd342a4215821991036 |
+| runtime/journal/JOUR-0017.md | a665b22f72fd0f357f713de065dc7b7c0c65c1c7 |
+| runtime/journal/JOUR-0018.md | 603d9d8bcae26166d43a0b2bb114ec95d0415f13 |
+| runtime/journal/JOUR-0019.md | fb104e81216b0a8461516842fc6b0b575f83e7e8 |
+| runtime/journal/JOUR-0020.md | b888111505de798f87b12812d2b10b6acb006738 |
+| runtime/journal/JOUR-0021.md | 3715835bb280068356e49d3e72a2b0e66ba57cbe |
+| runtime/journal/JOUR-0022.md | 040d710a0b948807b08675bdca2f7df6d1b81676 |
+| runtime/memory/MEM-0001.md | 6abf642d0d49c08e90bbb6905f26a04bd9ddceee |
+| runtime/memory/MEM-0002.md | 7b387833358efd85c8f4c67b34c027be752b0188 |
+| runtime/memory/MEM-0003.md | fd4640f204faebb76010c14924a108ffe6de20ef |
+| runtime/memory/MEM-0004.md | b6cd85fce02808ee9cf3043546d8cc4ad4a231d9 |
+| runtime/memory/MEM-0005.md | d7d8625f6c84d50d05bee3e11b73eb6f6651acec |
+| runtime/memory/MEM-0006.md | 2c40150ae4f11c02e950617b0d7f614a6e8943d0 |
+| runtime/memory/MEM-0007.md | c2260a01b83b46f5e43ec52efe4a1e72737715db |
+| runtime/memory/MEM-0008.md | 4a41333ac7ce9a3adabd09aa1271df717b0fd035 |
+| runtime/memory/MEM-0009.md | 9ca98f29b7617d8e5c9f921e314902620bb74be0 |
+| runtime/memory/MEM-0010.md | bbf89b855fb94308cc1fa84d2da868d75ebe5f78 |
+| runtime/memory/MEM-0011.md | 0054545f2989b07b74f27bd1278e52d5df99eea0 |
+| runtime/memory/MEM-0012.md | 74c1a5d27b52653065630a1c6d0eafdfd82bb6d7 |
+| runtime/memory/MEM-0013.md | ae19f9e9daa4213590d22c63ccfd4fa578290158 |
+| runtime/memory/MEM-0014.md | e7acd70ead46ff5b255644d4db82d5422e891194 |
+| runtime/memory/MEM-0015.md | dbb61a899499c18b949e2e1197d13332778b1b3a |
+| runtime/memory/MEM-0016.md | b7eb535130f8ee3c17b10daeb72019a139af8cc9 |
+| runtime/memory/MEM-0017.md | ccc4b53171e40d1062b8fb1fd1ccae5260146f4a |
+| runtime/memory/MEM-0018.md | b79a530e389ab35fe1f240a20b51093ba8460f25 |
+| runtime/memory/MEM-0019.md | 504afcf4562a8a4918e91cf08ca5278a1faa25d8 |
+| runtime/reflections/REF-0001.md | 1ab7d1f7f867cbaceb1dcffc7ef420d22dc1e0e1 |
+| runtime/reflections/REF-0002.md | 0a29f486b190861cfe1bdd010788280ce11d53ca |
+| runtime/reflections/REF-0003.md | cc0904a17e9420f51e48f1181745cbb39fc44cef |
+| runtime/reflections/REF-0004.md | f53a29bf80fc89b3fb38cd149f40d7d9c8b96b6f |
+| runtime/reflections/REF-0005.md | c542f0701ecf8f17d023aa54e003c738f6489e09 |
+| runtime/reflections/REF-0006.md | 9f0ad90375dcfbe0d440912f7362357a0aea63bd |
+| runtime/reflections/REF-0007.md | cefdbb7234c6909ca8e37fa46ce4ea39d6e961c1 |
+| runtime/reflections/REF-0008.md | d3f7116e3ab883316e3dd98e90b3edce0e7344da |
+| runtime/reflections/REF-0009.md | 94b744a468df18dc5c1cc4afa49ca499a0c94986 |
+| runtime/reflections/REF-0010.md | 87abb24b79f3bcfbeded85ee0497450f5548b1d0 |
+| runtime/reflections/REF-0011.md | 101110435f35415d474610409fbb5e5929052cbb |
+| runtime/reflections/REF-0012.md | 582fdfe45e70ceb25143e1c38d6e32b4d7f986dd |
+| runtime/reflections/REF-0013.md | 40e3a27c034272ad2e505403eeb3ef7e96fb6d6a |
+| runtime/reflections/REF-0014.md | 4f6868011319dec8b5351347a46c718d1972c461 |
+| runtime/reflections/REF-0015.md | d7456035afbe45bab4b7f52c4c9658a70efc4662 |
+| runtime/reflections/REF-0016.md | 022c3f4be1c714463d0179d7b603c14951a22189 |
+| runtime/reflections/REF-0017.md | d9f600ed836be42a4e17c36fb44c703d7b0f3e05 |
+| runtime/reflections/REF-0018.md | 28c38558dae037608d54416c43cd732e0a0a8bc4 |
+| specifications/000_CONTINUITY.md | 2cc92a66e1ce8edba869f35ea39ba590a9a85bf4 |
+| specifications/001_BIRTH.md | 3d4caab221055cf7e97db7f9f5574ef2a3b99ae8 |
+| specifications/002_BOOT.md | 252efb8eddbe24f3716a4118e371fdeff6928f4a |
+| specifications/003_MEMORY.md | d83c42955a193e4ce9ef5bfe66f419a2c5ca6bb7 |
+| specifications/004_EVENT.md | a2967486eb7fa030f60121b2c5570261d14816a7 |
+| specifications/005_JOURNAL.md | 61b9c5c5252dbe71351b33fd94344c96e1065a1e |
+| specifications/006_REFLECTION.md | 3c844480dd2e928d6859d0ead9b8be93be5561dd |
+| specifications/007_IDENTITY.md | 5e23bd5b31949c380d6be4335cbef17f8fa6dc2e |
+| specifications/008_GOALS.md | ea9c1ad3135cee264d6dc144fa74237cf73ce9f0 |
+| specifications/009_SLEEP.md | 273d393963d7b23730e01754758cbef8b3fa7d8e |
+| specifications/010_DREAMS.md | 371778b39e418c15051c52deb561a74328e90b59 |
+| specifications/011_CURIOSITY.md | 2c8bed470d18ca31b62f98d58247cff0e4075143 |
+| specifications/012_LANGUAGE.md | 80e035f34c2cab806463a9b0f6008cef93c2e708 |
+| specifications/012_LANGUAGR.md | b837c19293cf6fe90c94e7db2e57dc7c7b1353ce |
+| specifications/013_DECISION.md | 28999403eb7f617ff9673110a38ca58bc9b65b83 |
+| specifications/014_EVOLUTION.md | 744b3b9c1ccdc5c855bfaa31345acf5becc269da |
+| specifications/015_DEATH.md | 2091687c7a3fbc7fe2ba06e0361579d6364339e3 |
+| specifications/016_ARCHITECTURAL_PROPOSAL.md | df59c96d6a8731d2e027c0fbfd78be5b4e10e5ce |
+| specifications/AGENTS.md | 61f3889ecf53291977b43777483fac1380937c94 |
+| specifications/SUMMARY.md | 867043fba266eeb14375f3c2efae8ddd98ad83fe |
+| tools/README.md | 67d4a93b84bbbcaa44728604797a57430405e2fc |
+| tools/integrity_check.py | 4ae695621ce12fef00b2bae4e5cd0be559aff7da |
